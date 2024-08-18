@@ -6,7 +6,7 @@ package Modeling;
 
 /**
  *
- * @author lenovo
+ * @author Seif
  */
 public class Products_Model {
     
